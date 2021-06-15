@@ -1,5 +1,7 @@
+---
 title: "Ohm's Blog"
 date: 2021-06-15
+---
 
 title: Your awesome title
 author: GitHub User
