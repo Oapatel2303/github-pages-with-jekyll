@@ -4,6 +4,7 @@ author: Ohm Patel
 email: Oapatel@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
   This is my website for AP Computer Science A
+markup: https://f.cloud.github.com/assets/19977/1656110/a3f8b280-5b6d-11e3-818d-c06ab05bd613.jpg
 
 # social links
 github_username:  Oapatel2303 # DO NOT include the @ character, or else the build will fail!
