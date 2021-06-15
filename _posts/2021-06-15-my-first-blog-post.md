@@ -3,10 +3,4 @@ title: "Ohm's Blog"
 date: 2021-06-15
 ---
 
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+This is my first blog post!
